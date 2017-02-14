@@ -11,3 +11,4 @@ http://wiki.darkrp.com/index.php/DarkRP:Vehicles
 
 Add vehicles under the following line:
 ---------------------------------------------------------------------------]]
+Ford Crown Victoria
